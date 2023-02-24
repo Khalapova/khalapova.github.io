@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434e651e.css",
+    "main.js": "/static/js/main.313ed49b.js",
+    "static/media/main-section.jpg": "/static/media/main-section.63586ce5f0ba4d365902.jpg",
+    "static/media/mainbg.jpg": "/static/media/mainbg.142e45af5bd25406cfc8.jpg",
+    "static/media/soup.png": "/static/media/soup.6fdee98a375f554af5ed.png",
+    "static/media/chicken.png": "/static/media/chicken.90eac6c43aed59c6918d.png",
+    "static/media/kebab.png": "/static/media/kebab.eaf63c673acd49aa1671.png",
+    "static/media/product.png": "/static/media/product.bd7dc7de83b28aff2f98.png",
+    "static/media/ShantellSans-Regular.ttf": "/static/media/ShantellSans-Regular.f82024fcd36a91fbe8fd.ttf",
+    "static/media/wp.png": "/static/media/wp.807cf0d84060a9ee2059.png",
+    "static/media/peppers.png": "/static/media/peppers.56a8fe07d974d7996de4.png",
+    "static/media/fish.png": "/static/media/fish.dae818421d657787246b.png",
+    "static/media/cheese.png": "/static/media/cheese.a43648b11692e52189da.png",
+    "static/media/garlic.png": "/static/media/garlic.49cd1a9f7bd3b75f2b9c.png",
+    "static/media/instagram.png": "/static/media/instagram.fe5c5dbaf8f6296ec7a7.png",
+    "static/media/fenugreek.png": "/static/media/fenugreek.acddd780fbf56cc959a1.png",
+    "static/media/khmeli.png": "/static/media/khmeli.854edf9c6b219464b7df.png",
+    "static/media/footer.jpg": "/static/media/footer.c150e59b5362e5bec8f1.jpg",
+    "static/media/basil.png": "/static/media/basil.d8dc998cd2d4f7284fdb.png",
+    "static/media/pepper.png": "/static/media/pepper.7186fa24126c651ea0cf.png",
+    "static/media/linkedin.png": "/static/media/linkedin.668fe687f5d2082add1c.png",
+    "static/media/salt.png": "/static/media/salt.15f1d7b94e959b5d6b4c.png",
+    "static/media/logo.png": "/static/media/logo.6751370c5b8280349f1b.png",
+    "static/media/fb.png": "/static/media/fb.49fb52a8bbcdad48ddcb.png",
+    "static/media/chili.png": "/static/media/chili.823917d8d24cedeee67e.png",
+    "index.html": "/index.html",
+    "main.434e651e.css.map": "/static/css/main.434e651e.css.map",
+    "main.313ed49b.js.map": "/static/js/main.313ed49b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434e651e.css",
+    "static/js/main.313ed49b.js"
+  ]
+}
